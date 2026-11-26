@@ -1,5 +1,8 @@
 # Nodance Validator Toolkit
 
+[![CI](https://github.com/Nodance-pro/nodance-validator-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Nodance-pro/nodance-validator-toolkit/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Open-source, local-first infrastructure diagnostics for blockchain validator operators.
 
 ## v0.1.0 — Linux infrastructure checker
